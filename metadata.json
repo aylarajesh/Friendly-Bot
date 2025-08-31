@@ -1,5 +1,7 @@
 {
   "name": "BFF Bot",
   "description": "A friendly AI companion to share your day with, get movie recommendations, and have a laugh. Your virtual best friend.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
